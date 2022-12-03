@@ -1,0 +1,20 @@
+.results {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.card {
+    width: 25rem;
+    margin: 1%;
+    margin-bottom: 15px;
+    box-shadow: 3px 3px 2px 2px lightgray;
+}
+.card-link {
+	color: #090b0bff;
+}
+.card-title {
+	color: #a846a0ff;
+}
+.card-link:hover{
+	color: #a846a0ff;
+}

@@ -1,0 +1,11 @@
+.image-div {
+	display: flex;
+	justify-content: space-between;
+}
+.lesson-img {
+	width: 40%;
+	box-shadow: 7px 7px 15px black;
+}
+h3 {
+	color: black;
+}

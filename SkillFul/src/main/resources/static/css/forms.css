@@ -1,0 +1,9 @@
+.tutor-form{
+	width: 50%;
+	margin: 0 auto;
+}
+@media all and (max-width: 1000px) {
+    .tutor-form {
+        width: 90%;
+    }
+}

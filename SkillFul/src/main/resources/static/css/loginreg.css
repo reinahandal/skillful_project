@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+.logo {
+	display: block;
+	width: 15%;
+	margin: 0 auto;
+}
+body {
+	background-color: white;
+}
+main {
+	height:100%;
+}
+.login-reg {
+    width: 50%;
+    background-color: #f6f8ffff;
+    border-radius: 25px;
+}
+@media all and (max-width: 1000px) {
+    .login-reg {
+        width: 90%;
+    }
+}
+form {
+    padding: 10px;
+}
+h1 {
+	color: #a846a0ff;
+}

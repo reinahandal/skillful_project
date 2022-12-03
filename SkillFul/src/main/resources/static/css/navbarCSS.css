@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-color:#f6f8ff !important;
+}
+
+.navbar{
+    width: 100%;
+    background-color:#000000 ;
+    position: fixed;
+    top:0;
+    width: 100%;
+}
+
+.navbar-brand,.nav-item a{
+    color: #f6f8ffff;
+}
+
+.dropdown-item a:hover {
+    color: #a846a0ff;
+}
+.logout:hover,.nav-item a:hover, .nav-link a:hover .navbar-brand:hover {
+    color: #a846a0ff;
+}
+
+button.btn{
+    margin-right: 20px;
+}
+
+.logout{
+    color: #f6f8ff;
+    margin-right: 20px;
+    text-decoration: none;
+
+}
+
+.dropdown-menu a{
+    color: #000000;
+}
+
+.logo img{
+    height: 60px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+/* tutor profile */
+
+.tutorprofile {
+	display: flex;
+	justify-content: space-between;
+}
+
+.profile-sidebar {
+	flex: 1;
+	border: #50514fff 2px solid;
+	height: fit-content;
+	width: fit-content;
+	border-radius: 25px;
+}
+
+.main-profile{
+	flex:2;
+}
+
+h1, h3 {
+	color: #a846a0ff;
+}
+.online {
+	color: #3fde82ff;
+}
+
+
