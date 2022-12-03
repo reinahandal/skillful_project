@@ -4,6 +4,12 @@
 Skillful is a website to find tutors in your area for any skill you would like to learn. This can include anything from learning the piano to learning python!
 It therefore promotes lifelong learning and continuous self development by connecting tutors and interested students.
 
+## Tech Stack
+This project was built using the Java Spring Boot Framework, and uses the following technologies:
+
+HTML, CSS, Bootstrap
+
+Spring Boot, Spring Security, Bcrypt, Gmail API
 
 ## Functionalities and Features
 
@@ -47,14 +53,6 @@ It therefore promotes lifelong learning and continuous self development by conne
 
 - All pages include a navigation bar that provides a smooth and intuitive navigation experience and easy access to all pages.
 - All pages in our website are fully responsive to different screen sizes.
-
-
-## Tech Stack
-This project was built using the Java Spring Boot Framework, and uses the following technologies:
-
-HTML, CSS, Javascript, Bootstrap
-
-Spring Boot, Spring Security, Bcrypt, Gmail API
 
 
 ## Tools
